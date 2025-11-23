@@ -432,3 +432,4 @@ lines(fitted(frc.513.ml), col= "blue")
 legend("topleft", lty=1, pch=1, col=c("blue","black"), text.width = 2, c("Data", "Fitted "))
 
 
+
